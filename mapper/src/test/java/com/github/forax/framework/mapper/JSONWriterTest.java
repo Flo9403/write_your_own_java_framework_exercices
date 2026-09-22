@@ -34,7 +34,7 @@ public class JSONWriterTest {
     }
   }  // end of Q1
 
-/*
+
   public static class Car {
     private final String owner;
 
@@ -104,7 +104,7 @@ public class JSONWriterTest {
     }
 
   } // end of Q2
-
+/*
   public static class StartDate {
     private final LocalDateTime time;
 
